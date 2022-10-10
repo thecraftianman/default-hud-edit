@@ -764,8 +764,8 @@ Scheme
 		"1"		"resource/HALFLIFE2.ttf"
 		"1"		"resource/HL2MP.ttf"
 		"2"		"resource/HL2crosshairs.ttf"
-		"3"		"resource/Snowstorm Light.otf"
-		"4"		"resource/BOMBARD_.otf"
+		"3"		"resource/fonts/Snowstorm Light.otf"
+		"4"		"resource/fonts/BOMBARD_.otf"
 	}
 
 	Borders

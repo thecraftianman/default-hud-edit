@@ -823,6 +823,6 @@ Scheme
 	{
 		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2EP2.ttf"
-		"3"		"resource/BOMBARD_.otf"
+		"3"		"resource/fonts/BOMBARD_.otf"
 	}
 }
